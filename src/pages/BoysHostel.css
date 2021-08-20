@@ -1,0 +1,11 @@
+.container > button{
+    display: block;
+    /* background-color: lightblue; */
+    width: 100px;
+    height: 100px;
+    margin: 15px;
+    text-align: center;
+    /* border: 2px solid black; */
+    /* border-radius: 5px; */
+    font-size: 20px;
+}
